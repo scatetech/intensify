@@ -4,7 +4,7 @@ header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
 header("Cache-Control: post-check=0, pre-check=0", false);
 header("Pragma: no-cache");
 
-// Define the campaigns with their IDs, corresponding bearer tokens, and custom titles
+//  Define the IntensifyDigital.com campaign with the ID {campaignId}, corresponding bearer token {bearerToken}, and custom title
 $campaigns = [
     ['id' => {campaignId}, 'token' => '{bearerToken}', 'title' => 'TYPE_CHANNEL_NAME_HERE'],
 ];
