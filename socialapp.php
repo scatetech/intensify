@@ -1,3 +1,9 @@
+//
+//  socialapp.php
+//  IntensifyDigital JSON Social Media Player  
+//
+//  Created by Stephen Sadler on 7/28/25.
+//
 <?php
 // Add cache-busting headers to prevent browser caching
 header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
