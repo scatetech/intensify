@@ -1,3 +1,9 @@
+//
+//  elearningapp.php
+//  IntensifyDigital JSON Elearning Player  
+//
+//  Created by Stephen Sadler on 7/28/25.
+//
 <?php
 // Define the campaigns with their IDs, corresponding bearer tokens, and custom titles
 $campaigns = [
