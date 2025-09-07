@@ -1,3 +1,9 @@
+//
+//  streamingtv.php
+//  IntensifyDigital JSON Streaming TV Player  
+//
+//  Created by Stephen Sadler on 7/28/25.
+//
 <?php
 // Define the IntensifyDigital.com campaigns with their IDs {campaignId}, corresponding bearer tokens {bearerToken}, and custom titles
 $campaigns = [
